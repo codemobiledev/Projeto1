@@ -11,4 +11,3 @@ public class TelaInicial extends AppCompatActivity {
         setContentView(R.layout.activity_tela_inicial);
     }
 }
-//comment1
