@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".TelaCadastro" />
-        <activity android:name=".TelaUsuarioIdentificado"></activity>
+        <activity android:name=".TelaUsuarioIdentificado" />
+        <activity android:name=".TelaEnvioMensagem" />
+        <activity android:name=".TelaAvisos"></activity>
     </application>
 
 </manifest>
