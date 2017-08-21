@@ -100,7 +100,7 @@
             android:layout_marginLeft="8dp"
             android:ems="10"
             android:inputType="text"
-            android:text="Digite seu usuário"
+
             tools:layout_editor_absoluteX="98dp"
             tools:layout_editor_absoluteY="163dp" />
     </LinearLayout>
@@ -132,7 +132,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPassword"
-            android:text="Digite sua senha..."
+
            />
 
     </LinearLayout>
